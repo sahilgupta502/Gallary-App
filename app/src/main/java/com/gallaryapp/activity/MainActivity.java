@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         activity = this;
         initUI();
     }
-
+// for Initialisation
     private void initUI() {
         if (Build.VERSION.SDK_INT >= 24) {
             try {
